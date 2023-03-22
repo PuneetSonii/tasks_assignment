@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PuneetSonii
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning data science
+- 📫 How to reach me puneetsonii369@gmail.com
